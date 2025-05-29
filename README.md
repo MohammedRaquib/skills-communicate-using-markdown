@@ -7,17 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# This is an `<h1>` header, which is the largest
+# Heading 1
+## Heading 2
+### Valid Heading
 
-## This is an `<h2>` header
-
-### This is an `<h3>` header
-
-#### This is an `<h4>` header
-
-##### This is an `<h5>` header
-
-###### This is an `<h6>` header, which is the smallest
 
 # Communicate using Markdown
 
