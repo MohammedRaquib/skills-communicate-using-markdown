@@ -1,5 +1,3 @@
-# Welcome to my github account
-
 <header>
 
 <!--
@@ -8,6 +6,12 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
 
 # Communicate using Markdown
 
